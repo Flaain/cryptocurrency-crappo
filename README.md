@@ -78,5 +78,5 @@ Home page
 
 **Links**
 
-1. [Figma template](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-2. [GitHub Pages](https://flaain.github.io/russian-travel/)
+1. [Figma template](https://www.figma.com/file/OzruGNt46RwUUW2PWOia2x/Cryptocurrency)
+2. [GitHub Pages](https://flaain.github.io/)
