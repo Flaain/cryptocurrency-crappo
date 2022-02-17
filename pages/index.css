@@ -16,3 +16,7 @@
 
 @import url(../blocks/page/page.css);
 
+/* Импортируем header */
+
+@import url(../blocks/header/header.css);
+
