@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+/* Импортируем normalize.css */
+
+@import url(../vendor/normalize.css);
+
+/* Импортируем шрифты */
+
+@import url(../fonts/fonts.css);
+
+/* Импортируем body */
+
+@import url(../blocks/body/body.css);
+
+/* Импортируем page */
+
+@import url(../blocks/page/page.css);
+

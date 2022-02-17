@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/* ПОДКЛЮЧАЕМ ШРИФТЫ */
+
+@font-face {
+    src: url(../fonts/Rubik/Rubik-Regular.woff2) format("woff2"), 
+    url(../fonts/Rubik/Rubik-Regular.woff) format("woff"), 
+    url(../fonts/Rubik/Rubik-Regular.ttf) format("ttf");
+    font-family: "Rubik";
+    font-weight: 400;
+}
+
+@font-face {
+    src: url(../fonts/Rubik/Rubik-Medium.woff2) format("woff2"), 
+    url(../fonts/Rubik/Rubik-Medium.woff) format("woff"), 
+    url(../fonts/Rubik/Rubik-Medium.ttf) format("ttf");
+    font-family: "Rubik";
+    font-weight: 500;
+}
+
+@font-face {
+    src: url(../fonts/Rubik/Rubik-Bold.woff2) format("woff2"), 
+    url(../fonts/Rubik/Rubik-Bold.woff) format("woff"), 
+    url(../fonts/Rubik/Rubik-Bold.ttf) format("ttf");
+    font-family: "Rubik";
+    font-weight: 700;
+}
+
+/* ПОДКЛЮЧАЕМ ШРИФТЫ */
