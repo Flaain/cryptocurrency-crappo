@@ -68,6 +68,12 @@
 1. [Figma template](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 2. [GitHub Pages](https://flaain.github.io/russian-travel/)
 
+**Screenshots of project**
+
+Home page
+
+![Image alt](https://github.com/Flaain/cryptocurrency-crappo/blob/master/images/home-page-screenshot.png)
+
 **Future**
 
 1. Add responsive interface
