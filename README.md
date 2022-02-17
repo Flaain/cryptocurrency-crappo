@@ -5,7 +5,7 @@
 * Project description
 * Technologies
 * Screenshots of project
-* Future
+* TODO
 * Links
 
 **Project description**
@@ -70,7 +70,7 @@ Home page
 
 ![Image alt](https://github.com/Flaain/cryptocurrency-crappo/blob/master/images/home-page-screenshot.png)
 
-**Future**
+**TODO**
 
 1. Add responsive interface
 2. Add possibility to login / registration
