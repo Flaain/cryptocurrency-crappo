@@ -77,3 +77,5 @@ Home page
 **Future**
 
 1. Add responsive interface
+2. Add possibility to login / registration
+3. Add HASH calculator
