@@ -15,6 +15,7 @@
 /* Импортируем body */
 
 @import url(../blocks/body/body.css);
+@import url(../blocks/body/__page/body__page.css);
 
 /* Импортируем page */
 
@@ -40,3 +41,20 @@
 /* Импортируем btn */
 
 @import url(../blocks/btn/btn.css);
+
+/* Импортируем main */
+
+@import url(../blocks/main/main.css);
+
+/* Импортируем home-page */
+
+@import url(../blocks/home-page/home-page.css);
+@import url(../blocks/home-page/__container/home-page__container.css);
+@import url(../blocks/home-page/__text/home-page__text.css);
+@import url(../blocks/home-page/__badge/home-page__badge.css);
+@import url(../blocks/home-page/__badge-sale/home-page__badge-sale.css);
+@import url(../blocks/home-page/__title/home-page__title.css);
+@import url(../blocks/home-page/__subtitle/home-page__subtitle.css);
+@import url(../blocks/home-page/__image/home-page__image.css);
+@import url(../blocks/home-page/__image-wrapper/home-page__image-wrapper.css);
+@import url(../blocks/home-page/__button/home-page__button.css);
