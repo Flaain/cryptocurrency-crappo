@@ -6,11 +6,10 @@
 * Technologies
 * Links
 * Screenshots of project
+* Future
 
 **Project description**
 
-Проект представляет из себя краткий путеводитель по красивым местам России.<br>
-Проект полностью адаптивен под следующие разрешения (320px, 768px, 1024px, 1280px)
 
 **Technologies**
 
@@ -51,8 +50,10 @@
     </nav>
 </header>
 ```
-3. BEM Nested
-[Image alt](https://github.com/Flaain/cryptocurrency-crappo/blob/master/images/bem-nested-screenshot.png) 
+3. BEM Nested<br>
+
+![Image alt](https://github.com/Flaain/cryptocurrency-crappo/blob/master/images/bem-nested-screenshot.png)
+
 4. Variables
 ```css
 :root{
@@ -66,3 +67,7 @@
 
 1. [Figma template](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 2. [GitHub Pages](https://flaain.github.io/russian-travel/)
+
+**Future**
+
+1. Add responsive interface
