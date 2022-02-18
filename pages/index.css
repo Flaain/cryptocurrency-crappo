@@ -97,3 +97,11 @@
 @import url(../blocks/calculator-page/__total/calculator-page__total.css);
 @import url(../blocks/calculator-page/__total/_accent/calculator-page__total_accent.css);
 @import url(../blocks/calculator-page/__description/calculator-page__description.css);
+
+.light-bg{
+    background-color: var(--white);
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    margin: -236px 0 0 0;
+}
