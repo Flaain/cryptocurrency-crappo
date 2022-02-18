@@ -22,6 +22,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__home-page/page__home-page.css);
+@import url(../blocks/page/__stats/page__stats.css);
 
 /* Импортируем header */
 
@@ -73,3 +74,26 @@
 @import url(../blocks/cell/__text/cell__text.css);
 @import url(../blocks/cell/__title/cell__title.css);
 @import url(../blocks/cell/__subtitle/cell__subtitle.css);
+
+/* Импортируем calculator */
+
+@import url(../blocks/calculator/calculator.css);
+@import url(../blocks/calculator/__container/calculator__container.css);
+@import url(../blocks/calculator/__text/calculator__text.css);
+@import url(../blocks/calculator/__title/calculator__title.css);
+@import url(../blocks/calculator/__subtitle/calculator__subtitle.css);
+
+/* Импортируем calculator-page */
+
+@import url(../blocks/calculator-page/calculator-page.css);
+@import url(../blocks/calculator-page/__header/calculator-page__header.css);
+@import url(../blocks/calculator-page/__form/calculator-page__form.css);
+@import url(../blocks/calculator-page/__hash-input/calculator-page__hash-input.css);
+@import url(../blocks/calculator-page/__select/calculator-page__select.css);
+@import url(../blocks/calculator-page/__btn/calculator-page__btn.css);
+@import url(../blocks/calculator-page/__footer/calculator-page__footer.css);
+@import url(../blocks/calculator-page/__text/calculator-page__text.css);
+@import url(../blocks/calculator-page/__title/calculator-page__title.css);
+@import url(../blocks/calculator-page/__total/calculator-page__total.css);
+@import url(../blocks/calculator-page/__total/_accent/calculator-page__total_accent.css);
+@import url(../blocks/calculator-page/__description/calculator-page__description.css);
