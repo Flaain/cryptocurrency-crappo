@@ -4,9 +4,9 @@
 ### Preview
 * Project description
 * Technologies
-* Links
 * Screenshots of project
-* Future
+* TODO
+* Links
 
 **Project description**
 
@@ -63,11 +63,20 @@
     --white: #FFF;
 }
 ```
-**Links**
 
-1. [Figma template](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-2. [GitHub Pages](https://flaain.github.io/russian-travel/)
+**Screenshots of project**
 
-**Future**
+Home page
+
+![Image alt](https://github.com/Flaain/cryptocurrency-crappo/blob/master/images/home-page-screenshot.png)
+
+**TODO**
 
 1. Add responsive interface
+2. Add possibility to login / registration
+3. Add HASH calculator
+
+**Links**
+
+1. [Figma template](https://www.figma.com/file/OzruGNt46RwUUW2PWOia2x/Cryptocurrency)
+2. [GitHub Pages](https://flaain.github.io/)
