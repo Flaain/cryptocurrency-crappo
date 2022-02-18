@@ -21,6 +21,7 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__home-page/page__home-page.css);
 
 /* Импортируем header */
 
@@ -58,3 +59,17 @@
 @import url(../blocks/home-page/__image/home-page__image.css);
 @import url(../blocks/home-page/__image-wrapper/home-page__image-wrapper.css);
 @import url(../blocks/home-page/__button/home-page__button.css);
+
+/* Импортируем stats */
+
+@import url(../blocks/stats/stats.css);
+@import url(../blocks/stats/__container/stats__container.css);
+
+/* Импортируем cell */
+
+@import url(../blocks/cell/cell.css);
+@import url(../blocks/cell/__bg/cell__bg.css);
+@import url(../blocks/cell/__image/cell__image.css);
+@import url(../blocks/cell/__text/cell__text.css);
+@import url(../blocks/cell/__title/cell__title.css);
+@import url(../blocks/cell/__subtitle/cell__subtitle.css);
